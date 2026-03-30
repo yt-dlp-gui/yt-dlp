@@ -41,6 +41,8 @@ Use at Your Own Risk: The software is delivered "as-is" for use in testing and l
 
 This repository does not promote the illegal downloading of content. Use of this tool must strictly comply with the **Terms of Service** of the platforms consulted and the intellectual property laws of each country. The developer is not responsible for any misuse of this educational script by third parties.
 
+"Donations are strictly voluntary and support the continued research and development of this educational PowerShell automation project. No features are locked behind a paywall."
+
 <center>
   <h2>🚀 Technical Requirements</h1>
   
