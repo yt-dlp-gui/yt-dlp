@@ -75,7 +75,15 @@ Get-FileHash ./FileName.rar -Algorithm SHA256
   <h2>📄 License</h1>
   
 </center>
-This project is licensed under the MIT License. This permits academic and personal use, while maintaining the original author's limitation of liability.
+This project is distributed under the license **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es)**.
+
+* ✅ **Freedom of Use:** You may use, study, and modify the code for personal or educational purposes.
+
+* 🚫 **NonCommercial:** The sale or redistribution of this interface for profit is strictly prohibited.
+
+* 🛡️ **Responsibility:** The author is not responsible for the use that users make of this tool. It is the user's responsibility to comply with the Terms of Service of the content platforms.
+
+> **Note:** This repository only contains the interface (GUI) code. The "yt-dlp" engine is an independent project under the Unlicense license..
 <center>
   <h4>**Copyright © 2026 yt-dlp-gui**</h1>
 
