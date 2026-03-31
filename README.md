@@ -76,5 +76,7 @@ Get-FileHash ./FileName.rar -Algorithm SHA256
   
 </center>
 This project is licensed under the MIT License. This permits academic and personal use, while maintaining the original author's limitation of liability.
-**Copyright © 2026 yt-dlp-gui**
+<center>
+  <h4>**Copyright © 2026 yt-dlp-gui**</h1>
+
 
