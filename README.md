@@ -9,6 +9,14 @@
 
 
 
+<div align="center">
+  <a href="https://github.com/yt-dlp-gui/yt-dlp/releases">
+    <img src="https://img.shields.io/badge/Descarga Aquí-green?style=for-the-badge&logo=github" alt="Download Here" height="80">
+  </a>
+</div>
+
+
+
 
 <center>
   <h1><b>GUI for yt-dlp</b></h1>
