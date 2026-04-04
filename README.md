@@ -15,7 +15,7 @@ This project is a graphical user interface (GUI) developed entirely in PowerShel
 
 <div align="center">
   <a href="https://github.com/yt-dlp-gui/yt-dlp/releases">
-    <img src="https://img.shields.io/badge/DOWNLOAD-blue?style=for-the-badge&logo=github" alt="Download" height="80">
+    <img src="https://img.shields.io/badge/DOWNLOAD HERE-red?style=for-the-badge&logo=github" alt="Download Here" height="80">
   </a>
 </div>
 
