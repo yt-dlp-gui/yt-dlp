@@ -1,6 +1,15 @@
 <img width="1197" height="1080" alt="157  YT-DLP TUTORIAL 2" src="https://github.com/user-attachments/assets/6ccfc061-331c-45ec-b13e-c373554ec112" />
 
 
+<div align="center">
+  <a href="https://github.com/yt-dlp-gui/yt-dlp/releases">
+    <img src="https://img.shields.io/badge/DOWNLOAD HERE-red?style=for-the-badge&logo=github" alt="Download Here" height="80">
+  </a>
+</div>
+
+
+
+
 <center>
   <h1><b>GUI for yt-dlp</b></h1>
   
@@ -11,14 +20,6 @@
 </center>
 
 This project is a graphical user interface (GUI) developed entirely in PowerShell. It was created for strictly educational purposes to demonstrate the capabilities of Windows script automation and advanced interaction with command-line tools (CLI).
-
-
-<div align="center">
-  <a href="https://github.com/yt-dlp-gui/yt-dlp/releases">
-    <img src="https://img.shields.io/badge/DOWNLOAD HERE-red?style=for-the-badge&logo=github" alt="Download Here" height="80">
-  </a>
-</div>
-
 
 
 
