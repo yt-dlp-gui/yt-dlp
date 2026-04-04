@@ -15,9 +15,12 @@
   
 </center>
 
-<center>
-  <img src="https://img.shields.io/badge/Language-PowerShell-yellow?style=for-the-badge&logo=powershell" alt="PowerShell">
-</center>
+<div align="center">
+  <a href="https://github.com/yt-dlp-gui/yt-dlp">
+    <img src="https://img.shields.io/badge/yt--dlp%20GUI-24292e?style=for-the-badge&logo=github&logoColor=yellow" alt="Repo" height="55">
+  </a>
+</div>
+
 
 This project is a graphical user interface (GUI) developed entirely in PowerShell. It was created for strictly educational purposes to demonstrate the capabilities of Windows script automation and advanced interaction with command-line tools (CLI).
 
